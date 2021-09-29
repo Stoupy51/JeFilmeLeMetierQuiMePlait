@@ -1,0 +1,86 @@
+body {
+	background-image: url("img/fond_pixel.png");
+	font-family: Arial, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.custom-container {
+	background-color: whitesmoke;
+	padding: 0;
+	max-width: 1200px;
+	margin: auto;
+	margin-top: 0;
+	box-shadow: 0px 0px 5px 5px whitesmoke;
+}
+
+a {
+	font-size: 2em;
+	vertical-align: middle;
+	font-family: 'Bungee', cursive;
+}
+
+h1 {
+	padding-right: 20px;
+	font-weight: 600;
+	font-size: 2em;
+	text-align: left;
+	color: steelblue;
+}
+
+h2 {
+	margin-top: 0;
+	text-align: center;
+	font-weight: 600;
+	font-size: 1.5em;
+}
+
+.custom-row {
+	max-width: 98%;
+	margin: auto;
+}
+
+.presentation {
+	margin-top: 2.5em;
+	margin-bottom: 2.5em;
+}
+
+footer {
+	max-width: 20%;
+	margin: auto;
+}
+
+.credits {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+	margin-left: 2em;
+}
+
+figcaption {
+	text-align: center;
+	color: slategrey;
+}
+
+.bandeau {
+	background-color:silver;
+	margin: 10px 0px 10px 0px;
+	box-shadow: 0px 0px 3px 3px silver;
+	text-align: center;
+}
+
+.logo {
+	margin-top: 1em;
+}
+
+nav {
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+	background-color: rgb(44,47,51);
+	box-shadow: 0px 0px 5px 5px gray;
+}
+
+nav a {
+	color: steelblue;
+}
